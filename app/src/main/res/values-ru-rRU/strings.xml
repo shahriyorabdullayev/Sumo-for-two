@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound">Звук</string>
+    <string name="vibration">Вибрация</string>
+    <string name="settings">Настройки</string>
+    <string name="mode">Режим</string>
+    <string name="game">Игра</string>
+    <string name="one_player">Один игрок</string>
+    <string name="two_player">Два игрока</string>
+    <string name="player_2_wins">Выиграл игрок 2</string>
+    <string name="player_1_wins">Выиграл игрок 1</string>
+    <string name="player_wins">Выиграл игрок</string>
+    <string name="bot_wins">Выиграл бот</string>
+</resources>
